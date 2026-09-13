@@ -26,17 +26,33 @@ Hello! I'm a Computer Engineering student, low-level enthusiast, and self-taught
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![x86_64 Assembly](https://img.shields.io/badge/x86__64_Assembly-000000?logo=assemblyscript&logoColor=white)
-![CUDA](https://img.shields.io/badge/Cuda-76B900?logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+
+### CUDA & GPU Tooling
+![CUDA Toolkit](https://img.shields.io/badge/CUDA_Toolkit-76B900?logo=nvidia&logoColor=white)
+![Nsight Systems](https://img.shields.io/badge/Nsight_Systems-76B900?logo=nvidia&logoColor=white)
+![Nsight Compute](https://img.shields.io/badge/Nsight_Compute-76B900?logo=nvidia&logoColor=white)
+![Nsight Eclipse Edition](https://img.shields.io/badge/Nsight_Eclipse_Edition-76B900?logo=nvidia&logoColor=white)
 
 ### Hardware & Systems
 ![ESP32](https://img.shields.io/badge/Esp32-E7352C?logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?logo=system76&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?logo=popos&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows11&logoColor=white)
+
+### IDEs & Code Editors
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=eclipseide&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublimetext&logoColor=white)
 
 ### Tools & Creative
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
