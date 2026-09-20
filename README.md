@@ -8,6 +8,11 @@ Hello! I'm a Computer Engineering student, low-level enthusiast, and self-taught
 - 🎨 3D modeling, UV mapping, rigging in **Blender** & color grading in **Adobe Lightroom / Canva**.
 - 🎮 Game file modding and server plugin architecture (**Minecraft**).
 
+# Learning In Progress:
+- Hardware Description Language:
+  - Verilog
+  - VHDL
+- Digital Design
 ---
 
 ## 🌐 Socials:
