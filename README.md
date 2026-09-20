@@ -2,11 +2,11 @@
 
 Hello! I'm a Computer Engineering student, low-level enthusiast, and self-taught developer.
 
-- 💻 Passionate about **C/C++, x86_64 Assembly, CUDA, Rust, Python**, and **Java**.
-- ⚡ Focus on embedded systems, hardware prototyping (**ESP32 / ESP32-S3 / ESP8266, ATtiny85, Arduino**), and local web servers.
-- 🐧 OS kernel & system configuration (**Arch Linux, Pop!_OS, FreeBSD**).
-- 🎨 3D modeling, UV mapping, rigging in **Blender** & color grading in **Adobe Lightroom / Canva**.
-- 🎮 Game file modding and server plugin architecture (**Minecraft**).
+- Passionate about **C/C++, x86_64 Assembly, CUDA, Rust, Python**, and **Java**.
+- Focus on embedded systems, hardware prototyping (**ESP32 / ESP32-S3 / ESP8266, ATtiny85, Arduino**), and local web servers.
+- OS kernel & system configuration (**Arch Linux, Pop!_OS, FreeBSD**).
+- 3D modeling, UV mapping, rigging in **Blender** & color grading in **Adobe Lightroom / Canva**.
+- Game file modding and server plugin architecture (**Minecraft**).
 
 # Learning In Progress:
 - Hardware Description Language:
